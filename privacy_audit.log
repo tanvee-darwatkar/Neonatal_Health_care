@@ -1,0 +1,10 @@
+2026-02-07 13:52:54 - INFO - Privacy Logger initialized
+2026-02-07 13:52:54 - INFO - Audit log: privacy_audit.log
+2026-02-07 13:52:54 - INFO - Audio captured: 16000 samples, 1.00s duration (Total captures: 1)
+2026-02-07 13:55:06 - INFO - Privacy Logger initialized
+2026-02-07 13:55:06 - INFO - Audit log: privacy_audit.log
+2026-02-07 13:55:06 - INFO - Audio captured: 16000 samples, 1.00s duration (Total captures: 1)
+2026-02-07 13:55:06 - INFO - [OK] Raw audio disposed at stage: test_stage (Total disposals: 1)
+2026-02-07 13:55:06 - INFO - [OK] Features extracted without raw audio: 13 features (Total extractions: 1)
+2026-02-07 13:55:06 - INFO - [OK] Network transmission verified safe: /api/test (Total checks: 1)
+2026-02-07 13:55:06 - INFO - [OK] Feedback stored without raw audio (features only)
